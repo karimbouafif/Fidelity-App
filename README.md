@@ -9,7 +9,7 @@ A new Flutter application.
 ## instructions
 
 <ol>
-<li>Run SafetyRoads node server  [Here](https://github.com/karimbouafif/RoadsWebService.git)</li>
+<li>Run Fidelity App node server  [Here](https://github.com/karimbouafif/RoadsWebService.git)</li>
 <li>Install missing dependencies:</li>
  <code> flutter pub get</code>
 <li>change API_URL in /lib/Config/AppConfig.dart
