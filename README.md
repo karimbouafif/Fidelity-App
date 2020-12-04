@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## :heart: Promotioanl Video
 <img src="https://user-images.githubusercontent.com/48072325/101047970-8e0a6a80-3582-11eb-9018-5d61818c358a.gif">
-## :heart: Project Images
+# :heart: Project Images
