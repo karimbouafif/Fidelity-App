@@ -1,9 +1,10 @@
+# <img src="https://user-images.githubusercontent.com/47055686/100393516-32982400-303a-11eb-97ed-b39b6a39034d.png" width=50 heigth=50 /> SafetyRoads 
 # app
 
 A new Flutter application.
 
 ## :heart: Getting Started
-# <img src="https://user-images.githubusercontent.com/47055686/100393516-32982400-303a-11eb-97ed-b39b6a39034d.png" width=50 heigth=50 /> SafetyRoads 
+
 
 ## instructions
 
