@@ -2,18 +2,18 @@
 
 A new Flutter application.
 
-## Getting Started
+## :heart: Getting Started
+# <img src="https://user-images.githubusercontent.com/47055686/100393516-32982400-303a-11eb-97ed-b39b6a39034d.png" width=50 heigth=50 /> SafetyRoads 
 
-This project is a starting point for a Flutter application.
+## instructions
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<ol>
+<li>Run SafetyRoads node server  [Here](https://github.com/karimbouafif/RoadsWebService.git)</li>
+<li>Install missing dependencies:</li>
+ <code> flutter pub get</code>
+<li>change API_URL in /lib/Config/AppConfig.dart
+<li>Run the app</li>
+</ol>
 
 ## :heart: Promotioanl Video
 <img src="https://user-images.githubusercontent.com/48072325/101047970-8e0a6a80-3582-11eb-9018-5d61818c358a.gif">
