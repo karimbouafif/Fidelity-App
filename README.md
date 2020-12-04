@@ -20,10 +20,11 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ## :heart: Project Images
-
+<div class="row">
 <img src="https://user-images.githubusercontent.com/48072325/101151918-a631c680-3622-11eb-8a24-570ee68f9677.jpg" width=200 heigth=600/>
 <img src="https://user-images.githubusercontent.com/48072325/101151926-a762f380-3622-11eb-8436-bfe2cfbfc72f.jpg" width=200 heigth=600/>
 <img src="https://user-images.githubusercontent.com/48072325/101151928-a762f380-3622-11eb-91e5-4b3aab858fc7.jpg" width=200 heigth=600 />
+</div>
 <img src="https://user-images.githubusercontent.com/48072325/101151933-a8942080-3622-11eb-90b8-cafbc81d793f.jpg" width=200 heigth=600/>
 <img src="https://user-images.githubusercontent.com/48072325/101151935-a8942080-3622-11eb-9c94-f2e718a16710.jpg" width=200 heigth=600/>
 <img src="https://user-images.githubusercontent.com/48072325/101151939-a92cb700-3622-11eb-9da2-8744fef49838.jpg" width=200 heigth=600 />
